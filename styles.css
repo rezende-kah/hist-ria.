@@ -1,0 +1,24 @@
+body {
+    background-color: blanchedalmond;
+    color: brown;
+    font-family:"Bold Script Font", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: yellow;
+    color: white;
+    font-family: "Bold Script Font", sans-serif;
+}
+
+.passo {
+    display: none;
+}
+💡
+.passo.ativo {
+display:block;
+}
