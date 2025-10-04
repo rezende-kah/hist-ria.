@@ -1,7 +1,7 @@
 body {
     background-color: blanchedalmond;
     color: brown;
-    font-family:"Bold Script Font", sans-serif;
+    font-family: "Bold Script Font", sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -18,16 +18,16 @@ button {
 .passo {
     display: none;
 }
-💡
-.passo.ativo {
-display:block;
+
+💡 .passo.ativo {
+    display: block;
 }
 
 main {
     text-align: center;
-max-width: 90%;
+    max-width: 90%;
 }
 
 img {
-💡 max-width: 90%;
+    💡 max-width: 90%;
 }
